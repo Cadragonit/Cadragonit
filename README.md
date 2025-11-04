@@ -13,4 +13,4 @@ It is really cool, go and check it out!
 
 Currently I'm in search of good ideas for my own repos because my Github page stinks of emptiness
 <h2 align="center">Additional Stats</h2>
-<div align="center"><image width="70%" src="https://github-readme-stats.vercel.app/api?username=cadragonit&layout=compact&card_width=512&theme=merko&show_icons=true&hide_border=true"></div>
+<div align="center"><image width="90%" src="https://github-readme-stats.vercel.app/api?username=cadragonit&layout=compact&card_width=600&theme=merko&show_icons=true&hide_border=true"></div>
