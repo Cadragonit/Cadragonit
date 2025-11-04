@@ -9,7 +9,7 @@ I kinda like to code somtimes
 
 [![SweeperTime](https://github-readme-stats.vercel.app/api/pin/?username=kursonofficial&repo=SweeperTime&theme=merko&show_icons=true&hide_border=true)](https://github.com/KursonOfficial/SweeperTime)
 
-It is really cool, go and check it out!
+It is really cool, I recomend you to check it out!
 
 Currently I'm in search of good ideas for my own repos because my Github page stinks of emptiness
 <h2 align="center">Additional Stats</h2>
