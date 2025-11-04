@@ -1,5 +1,5 @@
 ## Oh, um, hello!
-<image width="20%" align="right" src="https://wallpapers.com/images/hd/cursed-cat-pictures-k70yf8geyyl0umg5.jpg"></image>
+<image width="20%" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh4MzdmMmpldGg3ZGluenNvdzQ4eWpjaTJwYXV5MnBlM2psb3k0ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Wf9dyOrB0nGJn5FIYf/giphy.gif"></image>
 
 If you went on my page you might be qurious who I am, right?
 ### Who are you?
