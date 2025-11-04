@@ -1,4 +1,6 @@
 ## Oh, um, hello!
+<image width="20%" align="right" src="https://wallpapers.com/images/hd/cursed-cat-pictures-k70yf8geyyl0umg5.jpg"></image>
+
 If you went on my page you might be qurious who I am, right?
 ### Who are you?
 I identify myself as a junior programmer
