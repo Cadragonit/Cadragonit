@@ -6,7 +6,7 @@ Then you might be interested in answers to these questions:
 ### Who are you?
 In terms of programming, I identify myself as some kind of a junior programmer.
 ### Why are you here?
-I like to code from time to time. More often when I have time and a good mood for a nice code jotting :]
+I like to code from time to time. More often when I have time and a good mood for a nice coding :]
 ### Why dont you code then?
 <a href="#"><image height="42" src="https://cdn.pixabay.com/photo/2019%2F02%2F13%2F19%2F27%2Fwishing-3995110_1280.png"></a>, for now I have an allmost empty Github, yes. But I DO code in my friend's repo. Here it is:
 
